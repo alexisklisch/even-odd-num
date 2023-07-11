@@ -7,7 +7,15 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": ["JavaScript"],
+  "keywords": [
+    "JavaScript"
+  ],
   "author": "Alexis Klisch",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
 }
