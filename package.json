@@ -1,6 +1,6 @@
 {
   "name": "even-odd-num",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package to verify if a num is even or odd",
   "main": "src/index.js",
   "type": "module",
